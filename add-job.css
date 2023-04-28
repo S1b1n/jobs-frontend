@@ -1,0 +1,82 @@
+
+body{
+    background: #3d2e2e;
+}
+.company-name{
+    height: 45px;
+    width: 600px;
+}
+
+   
+
+.main{
+
+    background: #637097;
+    border: 1px solid black; 
+    width: 800px;
+    height: 740px;
+    text-align: center;
+    margin-left: 250px;
+    margin-top: 40px;
+    border-radius: 10px;
+
+}
+
+ 
+
+form{
+    line-height: 20px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.job-role{
+    height: 40px;
+    width: 400px;
+
+}
+.salary{
+    height: 40px;
+    width: 400px;
+}
+.job-type{
+    height: 40px;
+    width: 400px;
+}
+.job-requirements{
+    height: 70px;
+    width: 400px;
+}
+.job-description{
+    height: 70px;
+    width: 400px;
+
+}
+.company-HQ{
+    height: 60px;
+    width: 400px;
+
+}
+.contact-number{
+    height: 30px;
+    width: 400px;
+}
+.job-posted{
+    height: 30px;
+    width: 400px;
+}
+.addjob-submit{
+    width: 90px;
+    height: 40px;
+    margin-left: 30px;
+    margin-top: 30px;
+    text-align: center;
+    border-radius: 30px;
+    background: #20587e;
+    color: antiquewhite;
+    font-size: 16px;
+}
+.addjob-submit:hover{
+    background: #1b295e;
+
+}
+   

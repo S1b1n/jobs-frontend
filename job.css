@@ -1,0 +1,64 @@
+main{
+    margin-top: 0%;
+}
+.job-box{
+    width: 100%;
+    float: left;
+}
+.job-container-list{
+    list-style-type: none;
+    height: 320px;
+    width: 17%;
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 20px;
+    background: rgb(29, 60, 95);
+    color: azure;
+    float: left;
+    line-height: 30px;
+    text-align: center;
+}
+.company-logo{
+    height: 30px;
+    width: 65px;
+    margin-top: 15px;
+}
+.job-company-name{
+    font-size: large;
+    margin-top: 30px;
+}
+.job-role{
+    font-size: larger;
+    font-weight: bolder;
+   
+    /* margin-left: 50px; */
+}
+.job-salary{
+    font-size: larger;
+     margin-top: 26px;
+    
+
+}
+.job-location{
+font-size: larger;
+line-height: 30px;
+
+}
+.job-experience{
+    font-size: larger;
+    line-height: 30px;
+}
+.job-dutytime{
+    font-size: larger;
+    line-height: 30px;
+    margin-top: 50px;
+}
+.job-post{
+    font-size: large;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.hi{
+    text-decoration: none;
+}

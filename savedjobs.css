@@ -1,0 +1,14 @@
+.job-container-list{
+    list-style-type: none;
+    height: 350px;
+    width: 19%;
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 20px;
+    background: rgb(186, 204, 224);
+    color: azure;
+    float: left;
+    line-height: 30px;
+    text-align: center;
+}

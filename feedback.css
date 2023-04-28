@@ -1,0 +1,38 @@
+.header-feedback{
+    text-align: center;
+    margin-top: 70px;
+}
+.feedback-container{
+    border: 1px solid black;
+    height: 260px;
+    width: 600px;
+    border-radius: 31px;
+    background: rgb(17, 33, 61);
+    text-align: center;
+    line-height: 25px;
+    font-size: larger;
+    color: aliceblue;
+    margin-left: 26%;
+
+}
+.feedback-about{
+    margin-top: 40px;
+}
+.feedback-input{
+    height: 40px;
+    width: 340px;
+    border-radius: 10px;
+
+}
+.feedback-submit{
+    margin-top: 30px;
+    width: 120px;
+    height: 30px;
+    background-color: rgb(65, 105, 136);
+    border-radius: 20px;
+    color: aliceblue;
+    
+}
+.feedback-submit:hover{
+    background-color: rgba(43, 93, 187, 0.849);
+}

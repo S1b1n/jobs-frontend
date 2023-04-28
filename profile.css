@@ -1,0 +1,121 @@
+.containerlist-items{
+    margin-left: 280%;
+    font-size: small;
+}
+    
+
+
+body{
+    width: 100%;
+    height: 100%;
+    /* background: #a0a7af; */
+}
+
+.profile-header{
+    width: 80%;
+    height: 900px;
+    border: 1px solid black;
+    margin-left: 130px;
+    margin-top: 40px;
+    border-radius: 60px;
+    background: #c3ced1;
+
+}
+.user-details{
+    width: 98%;
+    height: 300px;
+    background: #b4c4dbd3;
+    border: 1px solid rgb(53, 19, 19);
+    margin-left: 11px;
+    border-radius: 30px;
+    margin-top: 20px;
+    display: flex;
+}
+.profile-img{
+    width: 200px;
+    height: 200px;
+    
+}
+.profile-ashil-img{
+    width: 200px;
+    height: 200px;
+    border: 1px solid rgb(0, 0, 0);
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 100px;
+}
+.profile-name{
+    margin-left: 60px;
+    margin-top: 40px;
+    
+
+   
+}
+.user-profile{
+    margin-left: 500px;
+    margin-top: -180px;
+    gap: 40px;
+    font-size: larger;
+
+}
+.user-profile-details{
+    margin-top: 160px;
+    width: 100%;
+    height: 180px;
+    margin-left: -180px;
+    font-size:25px;
+}
+.education{
+    font-size: 40px;
+    text-align: justify;
+    margin-top: 100px;
+    text-decoration: double;
+    margin-left: -27px;
+}
+.profile-edit{
+   
+    margin-left: 600px;
+    margin-top: 300px;
+    font-size: 25px;
+    text-align: center;
+  
+    border: 1px solid black;
+    text-decoration: none;
+    background: #379e33;
+    color:black;
+    border-radius: 5px;
+}
+.profile-skills{
+   margin-left: 0%;
+   font-size: larger;
+   margin-left: -180px;
+   font-size: 25px;
+    
+}
+.profile-skills-user{
+    font-size: 40px;
+    margin-left: -32px;
+}
+.user-profile-certificates{
+    margin-top: -461px;
+    width: 100%;
+    height: 180px;
+    margin-left: 400px;
+    font-size:25px;
+    
+
+}
+.user-profile-certificate{
+    font-size: 40px;
+    margin-left: -35px;
+    margin-top: 50px;
+}
+.user-profile-projects{
+margin-left: 400px;
+margin-top: 41px;
+font-size: 25px;
+}
+.user-profile-project{
+    font-size: 40px;
+    margin-left: -38px;
+}

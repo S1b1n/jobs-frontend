@@ -1,0 +1,38 @@
+.container-main-signup{
+    width: 30%;
+    height:500px;
+    border: 1px solid white;
+    margin-left: 480px;
+    margin-top: 70px;
+    background: #4563a3c2;
+    box-shadow: rgba(3, 3, 3, 0.56) 0px 22px 70px 4px;
+    text-align: center;
+    border-radius: 50px;
+}
+
+/* .container-signup{
+    width: 100%;
+    height: 170px;
+} */
+.container-body-signup{
+    margin-top: 30px;
+    width: 60%;
+    height: 40px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: small;
+    background: #fefeff;
+}
+.container-direct-signup{
+    margin-top: 20px;
+    width: 25%;
+    height: 30px;
+    border-radius: 20px;
+    text-align: center;
+    background: #9e8484;
+    font-size: medium;
+}
+.container-direct-signup:hover{
+    background: #3559cf;
+}
+   
