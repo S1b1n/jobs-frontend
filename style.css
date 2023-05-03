@@ -8,7 +8,7 @@ header{
     width: 100%;
     /* border: .5px solid rgb(29, 28, 28); */
     display: flex;
-     box-shadow: rgba(120, 147, 172, 0.74) 0px -23px 25px 0px inset, rgba(5, 2, 2, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+     box-shadow: rgba(198, 210, 221, 0.74) 0px -23px 25px 0px inset, rgba(24, 13, 13, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
 
 }
 .container{
@@ -17,10 +17,10 @@ header{
 }
 .containerlist-items{
     display: flex;
-    gap: 2rem;
-    margin-left: 700px;
+    gap: 0.9rem;
+    margin-left: 850px;
     margin-top: 30px;
-    font-size: 13px;
+    font-size: 15px;
    text-decoration: none;
     color: black;
 }
@@ -35,8 +35,8 @@ header{
     height:450px;
     border: 1px solid white;
     margin-left: 500px;
-    margin-top: 100px;
-    background-image: linear-gradient(-220deg,#24c96e 0%,#000 60%);
+    margin-top: 70px;
+    background-image: linear-gradient(-220deg,#217243 0%,#073374 60%);
     box-shadow: rgba(3, 3, 3, 0.56) 0px 22px 70px 4px;
     text-align: center;
     border-radius: 50px;
@@ -58,7 +58,7 @@ header{
 }
 .container-body-login{
     margin-top: 30px;
-    width: 28%;
+    width: 60%;
     height: 33px;
     border-radius: 15px;
     text-align: center;
@@ -75,9 +75,11 @@ header{
 .container-footer-signup{
     font-size: large;
     color: bisque;
-    margin-left: 15px;
+    margin-left:5px;
+    margin-top: 20px;
+   
     text-decoration: none;
-    margin-top: 30px;
+
 }
 .container-body-login:hover{
     background: #6f7997;

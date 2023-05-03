@@ -1,9 +1,10 @@
 
 .edit-profile-user{
-    width: 70%;
-    background:#c9d7e2;
+    width: 80%;
+    background:#3d5a70;
+    color: aliceblue;
 
-    height: 780px;
+    height: 1000px;
     font-size: larger;
     border: 1px solid rgb(0, 0, 0);
     margin-left: 150px;
@@ -12,58 +13,82 @@
 text-align: center;
     
     }
-    .user-name{
+    .userName{
         width: 400px;
         height: 30px;
         margin-top: 5px;
+        border-radius: 12px;
     }
     .user-proffession{
         width: 900px;
-        height: 30px;
+        height: 50px;
         margin-top: 5px;
+        border-radius: 12px;
     }
     .user-profile-picture{
-        width: 900px;
+        width: 700px;
         height: 30px;
         margin-top: 10px;
-        margin-left: 300px;
+        margin-left: 0px;
+        border-radius: 12px;
     }
     .educationof-user{
         width: 900px;
-        height: 30px;
+        height: 50px;
+        border-radius: 12px;
     }
     .skillsof-user{
         width: 900px;
         height: 60px;
+        border-radius: 12px;
     }
     .user-about{
         width: 900px;
         height: 60px;
+        border-radius: 12px;
+    }
+    .github{
+            width: 300px;
+    height: 30px;
+    border-radius: 12px;
+
     }
 .user-phone-number{
     width: 300px;
     height: 30px;
+    border-radius: 12px;
 }
 .user-email{
     width: 300px;
     height: 30px;
+    border-radius: 12px;
 }
 .user-website{
     width: 300px;
     height: 30px;
+    border-radius: 12px;
 }
 .user-state{
     width: 300px;
     height: 40px;
+    border-radius: 12px;
 }
 .projectsof-user{
     width: 400px;
     height: 70px;
+    border-radius: 12px;
 }
-.editProfile-submit{
+.certificates{
+     width: 400px;
+    height: 80px;
+    margin-left: 00px;
+    border-radius: 12px;
+
+}
+ .editProfile-submit{
     width: 110px;
     height: 30px;
-    margin-left: 40px;
+    margin-left: 30px;
     margin-top: 20px;
     background: #c27c7c;
     border-radius: 10px;
@@ -71,7 +96,7 @@ text-align: center;
 .editProfile-submit:hover{
     background: #2d88b3;
     transition: cubic-bezier(0.075, 0.82, 0.165, 1);
-}
+} 
 .containerlist-items{
     /* gap: 3rem; */
     margin-left: 100%;

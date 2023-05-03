@@ -6,6 +6,9 @@ body{
     height: 45px;
     width: 600px;
 }
+.containerlist-items{
+margin-left: 850px;
+}
 
    
 
@@ -19,6 +22,7 @@ body{
     margin-left: 250px;
     margin-top: 40px;
     border-radius: 10px;
+    color: white;
 
 }
 

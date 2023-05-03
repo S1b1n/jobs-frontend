@@ -1,8 +1,4 @@
-.containerlist-items{
-    margin-left: 280%;
-    font-size: small;
-}
-    
+ 
 
 
 body{
@@ -18,14 +14,15 @@ body{
     margin-left: 130px;
     margin-top: 40px;
     border-radius: 60px;
-    background: #c3ced1;
+    background-image: linear-gradient(-220deg,#217243 0%,#073374 60%);
+    color: white;
 
 }
 .user-details{
     width: 98%;
     height: 300px;
-    background: #b4c4dbd3;
-    border: 1px solid rgb(53, 19, 19);
+    background-image: linear-gradient(-220deg,#300606 0%,#00215f 60%);
+    border: 1px solid rgb(255, 255, 255);
     margin-left: 11px;
     border-radius: 30px;
     margin-top: 20px;
